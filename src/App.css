@@ -11,6 +11,11 @@
 }
 
 @font-face {
+    font-family: bandicoLight;
+    src: url(./components/assests/fonts/BANDICO-Light.ttf);
+}
+
+@font-face {
     font-family: bastik;
     src: url(./components/assests/fonts/BastikChagile.ttf);
 }
@@ -60,13 +65,22 @@
     src: url(./components/assests/fonts/Zugili.ttf);
 }
 
-*, h1 {
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
     font-size: 30px;
 }
 
 /* Font Initialization */
 .bandico {
     font-family: bandico;
+}
+
+.bandicoLight {
+    font-family: bandicoLight;
 }
 
 .bastik {
