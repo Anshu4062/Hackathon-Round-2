@@ -1,10 +1,12 @@
 import './App.css';
-import ProductDetails from "./components/productDetailPage/ProductDetails";
+// import FontPreview from './components/Font-Preview/FontPreview';
+import ProductDetails from "./components/Product-Details/ProductDetails";
 
 function App() {
   return (
     <div className="App">
       <ProductDetails />
+      {/* <FontPreview /> */}
     </div>
   );
 }

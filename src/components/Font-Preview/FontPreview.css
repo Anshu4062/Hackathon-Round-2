@@ -1,0 +1,107 @@
+/* Font Imports */
+@font-face {
+    font-family: bandico;
+    src: url(../assests/fonts/BANDICO.ttf);
+}
+
+@font-face {
+    font-family: bastik;
+    src: url(../assests/fonts/BastikChagile.ttf);
+}
+
+@font-face {
+    font-family: darelinga;
+    src: url(../assests/fonts/Darelinga.ttf);
+}
+
+@font-face {
+    font-family: moirest;
+    src: url(../assests/fonts/Moirest.ttf);
+}
+
+@font-face {
+    font-family: rankle;
+    src: url(../assests/fonts/Rankle\ Free.otf);
+}
+
+@font-face {
+    font-family: schoolBagpack;
+    src: url(../assests/fonts/School\ Backpack.ttf);
+}
+
+@font-face {
+    font-family: wush;
+    src: url(../assests/fonts/WUSH.otf);
+}
+
+@font-face {
+    font-family: manrope;
+    src: url(../assests/fonts/Manrope-Regular.ttf);
+}
+
+@font-face {
+    font-family: metropolis;
+    src: url(../assests/fonts/metropolis/Metropolis-Regular.otf);
+}
+
+@font-face {
+    font-family: metropolisBlack;
+    src: url(../assests/fonts/metropolis/Metropolis-Black.otf);
+}
+
+@font-face {
+    font-family: zugili;
+    src: url(../assests/fonts/Zugili.ttf);
+}
+
+*, h1 {
+    font-size: 50px;
+}
+
+.bandico {
+    font-family: bandico;
+}
+
+.bastik {
+    font-family: bastik;
+}
+
+.darelinga {
+    font-family: darelinga;
+}
+
+.moirest {
+    font-family: moirest;
+}
+
+.schoolBagpack {
+    font-family: schoolBagpack;
+}
+
+.wush {
+    font-family: wush;
+}
+
+.manrope {
+    font-family: manrope;
+}
+
+.gilroy {
+    font-family: gilroy;
+}
+
+.zugili {
+    font-family: zugili;
+}
+
+.rankle {
+    font-family: rankle;
+}
+
+.metropolis {
+    font-family: metropolis;
+}
+
+.metropolisBlack {
+    font-family: metropolisBlack;
+}
